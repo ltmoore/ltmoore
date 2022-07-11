@@ -14,6 +14,7 @@ I received my master's in Business Analytics June '22. In my graduate program, I
 -	Lead Generation
 -	Marketing Campaign Reporting & Analysis
 -	Optimization of Paid Search Landing Pages 
+- Website Analytics & Reporting
 
 #### Tools/Programming Languages
 - Tableau & Tableau Prep (Data cleaning & visualization)
