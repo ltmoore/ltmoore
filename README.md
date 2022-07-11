@@ -17,6 +17,7 @@ I received my master's in Business Analytics June '22. In my graduate program, I
 
 #### Tools/Programming Languages
 - Tableau & Tableau Prep (Data cleaning & visualization)
+- Data Studio (Data visualization & reporting)
 - Excel (Data cleaning & business/financial modeling)
 - SQL (Data retrieval & cleaning)
 - Python (NumPy, SciPy, pandas, Scikit-Learn, Matplotlib, Beautifulsoup, seaborn, and NLTK)
